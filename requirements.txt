@@ -1,3 +1,6 @@
 numpy
 scipy
 scikit-learn
+flickrapi
+opencv-python
+requests
