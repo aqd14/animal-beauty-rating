@@ -1,0 +1,1 @@
+C:\Users\aqd14\Documents\GitHub\Microsoft\caffe\Build\x64\Release\compute_image_mean.exe -backend=lmdb C:\Users\aqd14\Documents\GitHub\animal-beauty-rating\input\train_lmdb C:\Users\aqd14\Documents\GitHub\animal-beauty-rating\input\mean.binaryproto
