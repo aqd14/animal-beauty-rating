@@ -1,2 +1,2 @@
 # animal-ratings
-Apply image processing techniques recognize what kind of animals in the figure and use deep convolution neural network to rank the "beauty" of animals
+Practice project using [Caffe](http://caffe.berkeleyvision.org/) for animal classification. Traning and test data are crawled from Flickr.
